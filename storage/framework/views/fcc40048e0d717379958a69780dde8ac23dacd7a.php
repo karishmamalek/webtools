@@ -1,0 +1,1 @@
+<img src="<?php echo e(asset('/static-backend/logo.png')); ?>" alt="Logo" class="h-10"><?php /**PATH C:\xampp\htdocs\cybertools\resources\views/vendor/filament/components/brand.blade.php ENDPATH**/ ?>
